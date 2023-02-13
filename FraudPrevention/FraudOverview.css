@@ -1,0 +1,16 @@
+.head{
+  
+    text-align: left;
+    
+}
+.content{
+   
+    text-align: left;
+
+}
+
+.img{
+    display: flex;
+    width: 70;
+  
+}
